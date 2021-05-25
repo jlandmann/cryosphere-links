@@ -15,6 +15,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
     - [FGP Software](#fgp-software)
     - [FGP Data](#fgp-data)
 - [Glaciers and Ice Sheets](#glaciers-and-ice-sheets)
+    - [Image Correlation Software](#dic-software)
     - [GIS Software](#gis-software)
          - [GIS Open Source Models](#gis-open-source-models) 
              - Ice Flow and Mass Balance
@@ -49,6 +50,8 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ### FGP Data
 
 ## Glaciers and Ice Sheets
+### Image Correlation Software
+- [DIC_FFT](https://github.com/bickelmps/DIC_FFT_ETHZ) - Digital Image Correlation using an FFT-approach ([p](https://www.mdpi.com/2072-4292/10/6/865))
 ### GIS Software
 ####  GIS Open Source Models
 ##### Ice Flow and Mass Balance
