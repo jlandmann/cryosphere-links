@@ -43,6 +43,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ## Cryosphere - across all subspheres
 ### Cryo Software
+- [earthspy](https://github.com/AdrienWehrle/earthspy) - Monitor and study any place on Earth and in Near Real-Time (NRT) with satellite data
 ### Cryo Data 
 ## Frozen Ground/Permafrost
 ### FGP Software
